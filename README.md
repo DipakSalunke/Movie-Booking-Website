@@ -1,2 +1,4 @@
-# Movie-Booking-Website
-Movie Booking Website using MySQL and XAMPP
+Movie Booking
+=============
+
+An online movie ticket booking web project. With front-end developed in php and back-end in MySql.
